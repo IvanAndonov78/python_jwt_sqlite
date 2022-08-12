@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "user": "admin@yahoo.com",
+      "password": "admin",
+      "role":  "Admin",
+      "isactive": 1,
+      "uidmask": "9p8QZ3fq538jg5!df^w~RZ",
+      "rolemask": "p09mqGKwvb]aobiZ!"
+    },
+    {
+      "user": "visitor@yahoo.com",
+      "password": "visitor",
+      "role":  "Visitor",
+      "isactive": 1,
+      "uidmask": "lsKG831!Vs~7dT]NsI5",
+      "rolemask": "B1i3!Pa]5~2jA5gKs"
+    }
+  ]
+}
